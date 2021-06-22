@@ -1,0 +1,24 @@
+{
+    "name": "tigo/curriculum",
+    "description": "migrate curriculum tables to database",
+    "license": "MIT",
+    "keywords": [ 
+        "curriculum",
+        "curriculum vitae",
+        "database" 
+    ],
+    "authors": [
+       {
+           "name": "Tiago A C Pereira",
+           "email": "tigocavalcante57@gmail.com"
+       } 
+    ],
+    "require": {
+        "php":">= 7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tigo\\Curriculum\\": "src/" 
+        }
+    }
+} 
