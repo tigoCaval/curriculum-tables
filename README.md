@@ -48,5 +48,6 @@ If you are interested in supporting this project, you can help in many ways. Lea
 ### Sponsor supporting this project
 - []
 ### Contributors
- - [Tiago A C Pereira](https://github.com/tigoCaval) 
- - [list of contributors](https://github.com/tigoCaval/curriculum-tables/graphs/contributors)
+<a href="https://github.com/tigoCaval"><img src="https://avatars.githubusercontent.com/u/19934116?v=4" width="90" height="100" /> </a>
+ 
+ - [List of contributors](https://github.com/tigoCaval/curriculum-tables/graphs/contributors)
