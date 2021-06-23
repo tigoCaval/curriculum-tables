@@ -11,6 +11,11 @@ Migrate curriculum tables to database
 [Click here](https://github.com/tigoCaval/curriculum-tables/blob/main/modeling/cv_modeling.png) to check out the database modeling
 
 # Introduction
+ ### Getting started
+ Starting with composer
+ 1. Install composer
+ 2. Download package: ```composer require tigo/curriculum```
+ 3. PHP >= 7.0; Versions that have been tested:  7.3.23, 8.0.1 e 8.0.3. 
 
  ### Configure database
      directory: src/Base/Interfaces/IConnect.php
