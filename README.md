@@ -42,12 +42,15 @@ Example: Migrating Tables to Database
   $table->mysql(); //migrate mysql tables
   
  ```
- ### Supporting this project
+ ## Supporting this project
 If you are interested in supporting this project, you can help in many ways. Leave a star :star: or make a donation of any value.
 
-### Sponsor supporting this project
+## Sponsor supporting this project
 - []
-### Contributors
+## Contributors
 <a href="https://github.com/tigoCaval"><img src="https://avatars.githubusercontent.com/u/19934116?v=4" width="90" height="100" /> </a>
  
  - [List of contributors](https://github.com/tigoCaval/curriculum-tables/graphs/contributors)
+
+## License
+MIT license. See the archive [License](https://github.com/tigoCaval/curriculum-tables/blob/main/LICENSE)
