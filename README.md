@@ -42,3 +42,11 @@ Example: Migrating Tables to Database
   $table->mysql(); //migrate mysql tables
   
  ```
+ ### Supporting this project
+If you are interested in supporting this project, you can help in many ways. Leave a star :star: or make a donation of any value.
+
+### Sponsor supporting this project
+- []
+### Contributors
+ - [Tiago A C Pereira](https://github.com/tigoCaval) 
+ - [list of contributors](https://github.com/tigoCaval/curriculum-tables/graphs/contributors)
